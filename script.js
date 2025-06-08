@@ -20,7 +20,7 @@ const account2 = {
 };
 
 const account3 = {
-  owner: 'Salina Thapa',
+  owner: 'Rakesh Shrestha',
   movements: [200, -200, 340, -300, -20, 50, 400, -460],
   interestRate: 0.7,
   pin: 3333,
